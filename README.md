@@ -19,3 +19,7 @@
         />
     </a>
 </p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
