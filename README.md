@@ -1,6 +1,6 @@
 ## Olá!👋 Eu sou o Vinícius Nalini
 
-- 🔭 Hoje trabalho como Analista de QA
+- 🔭 Hoje trabalho como Analista de QA (Quality Assurance/Garantia da Qualidade)
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas (ADS) 
 
 
