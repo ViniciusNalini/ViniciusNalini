@@ -82,16 +82,18 @@
 
 ## 📊 Estatísticas
 
-<p align="center">
-    <img
-        width="49%"
-        alt="Estatísticas do GitHub"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusNalini&theme=tokyonight"
-    />
+<div align="center">
 
-    <img
-        width="49%"
-        alt="Principais linguagens do GitHub"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusNalini&theme=tokyonight"
-    />
-</p>
+<img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusNalini&theme=tokyonight"
+    alt="Estatísticas do GitHub"
+/>
+
+<img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusNalini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Linguagens mais utilizadas"
+/>
+
+</div>
