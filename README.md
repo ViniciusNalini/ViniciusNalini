@@ -84,16 +84,16 @@
 
 <div align="center">
 
-<img
+  <img
     height="170"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusNalini&theme=tokyonight"
     alt="Estatísticas do GitHub"
-/>
+  />
 
-<img
+  <img
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusNalini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Linguagens mais utilizadas"
-/>
+  />
 
 </div>
