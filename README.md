@@ -59,12 +59,12 @@
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Jira" 
+    title="Jira"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
+    />
 
 <img 
     align="left" 
