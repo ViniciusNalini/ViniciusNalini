@@ -78,21 +78,18 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p>
+<p align="center">
   <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=ViniciusNalini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
-
+  
   <img
-    align="left"
-    alt="GitHub Top Languages"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusNalini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   />
 </p>
+
+
